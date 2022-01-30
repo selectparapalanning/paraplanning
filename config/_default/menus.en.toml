@@ -1,0 +1,55 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[main]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[main]]
+name = "Why Outsource"
+url = "faq/"
+weight = 3
+
+[[main]]
+name = "Our Services"
+url = "services/"
+weight = 4
+
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 5
+
+
+# footer menu
+[[footer]]
+name = "Home"
+url = ""
+weight = 1
+
+[[footer]]
+name = "About"
+url = "about/"
+weight = 2
+
+[[footer]]
+name = "Why Outsource"
+url = "faq/"
+weight = 3
+
+[[footer]]
+name = "Our Services"
+url = "services/"
+weight = 4
+
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 5
