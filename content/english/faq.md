@@ -2,8 +2,7 @@
 title: "Why Outsource"
 description: "The Benefits of outsourcing your paraplanning are as follows"
 subtitle : "What Can Outsourcing Do For You?"
-lastmod: 2021-04-01T00:00:00
-bg_image: "images/feature-bg.jpg"
+bg_image: "images/feature-bg5.jpg"
 layout: "faq"
 draft: false
 ---

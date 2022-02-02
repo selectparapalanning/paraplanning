@@ -19,13 +19,7 @@ address_descriptors = false
 # contact info
 phone = "0123456789"
 email = "enquiries@selectparaplanning.co.uk"
-location = """
-**Headquarters**  
 
-Some Address<br> 
-Some City  
-Some County
-"""
 # copyright
 copyright = "Designed By [Select Paraplanning](https://www.selectparaplanning.co.uk/) & Developed By [Select Paraplanning](https://www.selectparaplanning.co.uk/)"
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>" 

@@ -18,9 +18,8 @@ weight = 3
 
 [[main]]
 name = "Our Services"
-url = "services/"
+url = "service/"
 weight = 4
-
 
 [[main]]
 name = "Contact"
@@ -46,7 +45,7 @@ weight = 3
 
 [[footer]]
 name = "Our Services"
-url = "services/"
+url = "service/"
 weight = 4
 
 [[footer]]
