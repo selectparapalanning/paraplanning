@@ -27,7 +27,7 @@ custom_script= ""
 # google tag manager, see https://developers.google.com/tag-manager/
 google_tag_manager = "" # example: G-XXXXXXXXXX
 # recaptch v3 site key
-recaptcha_site_key = "xxx-xxxxxxxxxxxxxxxxxxxxxxxx"
+# recaptcha_site_key = "xxx-xxxxxxxxxxxxxxxxxxxxxxxx"
 
 [contact.form]
 enable = false
