@@ -3,52 +3,52 @@
 # main menu
 [[main]]
 name = "Home"
-url = "https://www.selectparaplanning.co.uk/"
+url = ""
 weight = 1
 
 [[main]]
 name = "About"
-url = "https://www.selectparaplanning.co.uk/about/"
+url = "about/"
 weight = 2
 
 [[main]]
 name = "Why Outsource"
-url = "https://www.selectparaplanning.co.uk/faq/"
+url = "faq/"
 weight = 3
 
 [[main]]
 name = "Our Services"
-url = "https://www.selectparaplanning.co.uk/service/"
+url = "service/"
 weight = 4
 
 [[main]]
 name = "Contact"
-url = "https://www.selectparaplanning.co.uk/contact/"
+url = "contact/"
 weight = 5
 
 
 # footer menu
 [[footer]]
 name = "Home"
-url = "https://www.selectparaplanning.co.uk/"
+url = ""
 weight = 1
 
 [[footer]]
 name = "About"
-url = "https://www.selectparaplanning.co.uk/about/"
+url = "about/"
 weight = 2
 
 [[footer]]
 name = "Why Outsource"
-url = "https://www.selectparaplanning.co.uk/faq/"
+url = "faq/"
 weight = 3
 
 [[footer]]
 name = "Our Services"
-url = "https://www.selectparaplanning.co.uk/service/"
+url = "service/"
 weight = 4
 
 [[footer]]
 name = "Contact"
-url = "https://www.selectparaplanning.co.uk/contact/"
+url = "contact/"
 weight = 5
