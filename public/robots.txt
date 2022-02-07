@@ -1,2 +1,5 @@
-User-agent: *
-Allow: /
+User-Agent: *
+Disallow: 
+
+Sitemap: https://www.colebrooke.org/sitemap.xml
+
