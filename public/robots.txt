@@ -1,5 +1,0 @@
-User-Agent: *
-Allow: /
-
-Sitemap: https://www.selectparaplanning.co.uk/sitemap.xml
-
