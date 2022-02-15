@@ -3,7 +3,7 @@
   command = "hugo --minify --gc"
   
 [build.environment]
-  HUGO_VERSION = "hugo v0.92.0-B3549403+extended"
+  HUGO_VERSION = "hugo v0.92 extended"
   HUGO_BASEURL = "https://www.selectparaplanning.co.uk/"
 
 [[headers]]
