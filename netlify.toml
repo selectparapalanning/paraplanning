@@ -3,11 +3,11 @@
   command = "hugo --minify --gc"
   
 [build.environment]
-  HUGO_VERSION = "0.92.0"
-  HUGO_BASEURL = "/"
+  HUGO_VERSION = "hugo v0.92.0-B3549403+extended"
+  HUGO_BASEURL = "https://www.selectparaplanning.co.uk/"
 
 [[headers]]
-  for = "https://www.selectparaplanning.co.uk/*" # This defines which paths this specific [[headers]] block will cover.
+  for = "/*" # This defines which paths this specific [[headers]] block will cover.
 
 [headers.values]
   X-Frame-Options = "DENY"
